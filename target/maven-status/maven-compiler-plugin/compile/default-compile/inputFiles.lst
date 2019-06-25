@@ -1,0 +1,6 @@
+/home/khyatisehgal/Downloads/basicauthenticaton/src/main/java/com/dropwizard/basicauthentication/authentication/BasicAuthentication.java
+/home/khyatisehgal/Downloads/basicauthenticaton/src/main/java/com/dropwizard/basicauthentication/domain/User.java
+/home/khyatisehgal/Downloads/basicauthenticaton/src/main/java/com/dropwizard/basicauthentication/controller/UserController.java
+/home/khyatisehgal/Downloads/basicauthenticaton/src/main/java/com/dropwizard/basicauthentication/UserManagementApplication.java
+/home/khyatisehgal/Downloads/basicauthenticaton/src/main/java/com/dropwizard/basicauthentication/dao/UserDAO.java
+/home/khyatisehgal/Downloads/basicauthenticaton/src/main/java/com/dropwizard/basicauthentication/config/BasicAuthConfiguration.java

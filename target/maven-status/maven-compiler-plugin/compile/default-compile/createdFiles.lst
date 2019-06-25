@@ -1,0 +1,7 @@
+com/dropwizard/basicauthentication/dao/UserDAO.class
+com/dropwizard/basicauthentication/authentication/BasicAuthentication.class
+com/dropwizard/basicauthentication/UserManagementApplication.class
+com/dropwizard/basicauthentication/domain/User.class
+com/dropwizard/basicauthentication/controller/UserController.class
+com/dropwizard/basicauthentication/config/BasicAuthConfiguration.class
+com/dropwizard/basicauthentication/UserManagementApplication$1.class
